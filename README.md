@@ -31,9 +31,9 @@ Para garantir rigor técnico, o projeto seguiu o modelo CRISP-DM:
 - **Conceitos de Economia:** Estatística Descritiva, Economia da Saúde e Análise Interseccional.
 
 ## 🖼️ Visualização do Dashboard
-*(Insira aqui os prints do seu dashboard para causar impacto visual imediato)*
-![Capa do Projeto](images/dashboard_capa.jpg)
+![Capa do Projeto](images/dashboard_home.jpg)
 ![Análise de Dados](images/dashboard_analise.jpg)
+![Conclusão](images/dashboard_conclusao.jpg)
 
 ---
 ### 🏆 Validação Acadêmica
@@ -43,4 +43,5 @@ Para garantir rigor técnico, o projeto seguiu o modelo CRISP-DM:
 ## 👥 Autoria e Colaboração
 Projeto desenvolvido em dupla para o bootcamp da **{reprograma}**:
 * **Natália Aguiar ** - Análise de Dados, Desenvolvimento Python e Storytelling.
+
 * **Natália Oikawa** - Pesquisa Estratégica, Revisão e Defesa do Projeto.
