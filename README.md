@@ -40,9 +40,23 @@ Para garantir rigor técnico, o projeto seguiu o modelo CRISP-DM:
 > "Este trabalho tem potencial para ganhar ainda mais força e alcance, inclusive em espaços institucionais e de formulação de políticas públicas." — *Feedback da Banca Avaliadora*
 
 ---
+
+## 🔗 Links do Projeto
+* **Dashboard Interativo (Looker Studio):** [Clique aqui para acessar](https://lookerstudio.google.com/reporting/9bfe2e09-0929-4445-b6ff-f8e513558487)
+* **Ambiente de Desenvolvimento (Google Colab):** [Clique aqui para visualizar o código](https://colab.research.google.com/drive/1KXLB_eNlTbgpusO0ziacSeAcU79JogO_?usp=sharing)
+
+---
+
 ## 👥 Autoria e Colaboração
 Projeto desenvolvido em dupla para o bootcamp da **{reprograma}**:
 * **Natália Aguiar** - Análise de Dados, Desenvolvimento Python e Storytelling.
 
 * **Natália Oikawa** - Pesquisa Estratégica, Revisão e Defesa do Projeto.
 
+---
+
+## 📫 Contato
+Se você se interessa por dados sociais, políticas públicas ou quer trocar uma ideia sobre este projeto, sinta-se à vontade para me encontrar:
+
+* **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/nataliaaguiars)
+* **E-mail:** nah.aguiar911@gmail.com
