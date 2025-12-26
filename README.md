@@ -42,6 +42,7 @@ Para garantir rigor técnico, o projeto seguiu o modelo CRISP-DM:
 ---
 ## 👥 Autoria e Colaboração
 Projeto desenvolvido em dupla para o bootcamp da **{reprograma}**:
-* **Natália Aguiar ** - Análise de Dados, Desenvolvimento Python e Storytelling.
+* **Natália Aguiar** - Análise de Dados, Desenvolvimento Python e Storytelling.
 
 * **Natália Oikawa** - Pesquisa Estratégica, Revisão e Defesa do Projeto.
+
